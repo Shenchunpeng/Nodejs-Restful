@@ -1,0 +1,19 @@
+{
+  "name": "express_restful",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "dependencies": {
+    "restful": "^0.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "express"
+  ],
+  "author": "shenchunpeng",
+  "license": "MIT"
+}
